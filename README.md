@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![1](https://github.com/50UM3N/50um3n/blob/master/banner.png)
+![1](https://github.com/50UM3N/50um3n/blob/main/banner.png)
 
 <p>Hi, I am Soumen Khara a passionate self-taught full stack web developer and a freelancer from India. I have a passion for web design and love to create things for web and mobile devices.</p>
 
