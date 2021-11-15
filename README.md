@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi there 👋
 
 ![1](https://github.com/50UM3N/50um3n/blob/master/banner.png)
