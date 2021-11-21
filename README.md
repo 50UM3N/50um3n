@@ -22,7 +22,7 @@
 
 ![2](https://komarev.com/ghpvc/?username=50um3n)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/50um3n)
-[![Linkedin Badge](https://img.shields.io/badge/-Soumen%20Kharar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/50um3n/)](https://www.linkedin.com/in/50um3n/)
+[![Linkedin Badge](https://img.shields.io/badge/-Soumen%20Khara-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/50um3n/)](https://www.linkedin.com/in/50um3n/)
 [![Twitter Badge](http://img.shields.io/badge/-@soumen_khara-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/soumen_khara)](https://twitter.com/soumen_khara)
 [![GitHub followers](https://img.shields.io/github/followers/50um3n?label=Follow&style=social)](https://github.com/50um3n/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/-50um3n-blue?style=social&logo=Instagram&link=https://www.instagram.com/50um3n/)](https://www.instagram.com/50um3n/) 
