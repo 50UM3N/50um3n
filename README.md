@@ -4,7 +4,7 @@
 
 <p>Hi, I am Soumen Khara a passionate self-taught full stack web developer and a freelancer from India. I have a passion for web design and love to create things for web and mobile devices.</p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Blockchain**
 - 👨‍💻 All of my projects are available at [https://github.com/50UM3N](https://github.com/50UM3N)
 - 💬 Ask me about **Java Script**
 - 📫 How to reach me **soumen2015.s.k@gmail.com**
