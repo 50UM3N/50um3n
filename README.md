@@ -27,5 +27,5 @@
 [![Twitter Badge](http://img.shields.io/badge/-@soumen_khara-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/soumen_khara)](https://twitter.com/soumen_khara)
 [![GitHub followers](https://img.shields.io/github/followers/50um3n?label=Follow&style=social)](https://github.com/50um3n/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/-50um3n-blue?style=social&logo=Instagram&link=https://www.instagram.com/50um3n/)](https://www.instagram.com/50um3n/) 
-<p><img style="margin-top:1rem;" align="center" src="https://github-readme-stats.vercel.app/api?username=50um3n&show_icons=true" alt="50um3n" /></p>
+
 
